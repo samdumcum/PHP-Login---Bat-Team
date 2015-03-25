@@ -1,0 +1,50 @@
+	<!DOCTYPE html>
+<html>
+<head>
+	<title>
+		Lab Seven CSS
+	</title>		
+	<style> 
+	<body>
+		
+		{
+background: url(http://images4.alphacoders.com/238/238216.jpg);
+			background-size: 100%;
+			background-repeat: no-repeat;
+			
+			
+			h1 {
+  				font-weight: bold;
+ 				 color: #FFFF00;
+ 				 font-size: 32px;
+				}
+
+				h2 {
+  				font-weight: bold;
+  				color: #FF0000;
+  				font-size: 24px;
+				}
+				
+			color: white		
+		}
+		
+	div 
+		{
+			border: solid 1px;
+			margin: 5px;
+			padding: 5px;
+		}
+		#fail
+		{
+			height: 50px;
+			border: solid 10px;
+			padding: 55px;
+			text-align: center;
+			color: #505050;
+			font-size: 50; 
+			background: url(http://cdn3.whatculture.com/wp-content/uploads/2013/10/the-joker-alex-ross.jpg);
+			background-size: 100%;
+		</style>
+	</head>
+	</body>
+</html>			
